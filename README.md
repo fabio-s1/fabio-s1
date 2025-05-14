@@ -7,19 +7,16 @@
 class Developer:
     name = "Fabio Siqueira"
     location = "São Paulo, Brazil"
-    education = "Bachelor's in Information Systems"
-    status = "Career transition from IT Support to Software Development"
-    focus = "Back-end with Python, exploring Full-Stack technologies"
+    status = "Transitioning to Software Development"
 
 class Skills(Developer):
-    languages = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
-    technologies = ["React", "Bootstrap", "Git", "GitHub", "Linux", "Windows Server"]
-    tools = ["VS Code", "PowerShell", "Bash"]
-    soft_skills = ["Communication", "Organization", "Troubleshooting"]
+    languages = ["Python", "TypeScript", "HTML", "CSS", "JavaScript"]
+    technologies = ["React", "Bootstrap", "Git", "GitHub", "Windows", "Linux"]
+    tools = ["Visual Studio Code", "PowerShell", "Bash"]
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-s1&layout=pie&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-s1&layout=donut&theme=dracula">
 </div>
 
 <br>
