@@ -1,27 +1,19 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Fabio+Siqueira" alt="Typing SVG" />
-</a>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=7FFF00&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Software+Developer" alt="Typing SVG" />
-</a>
+<h1 align="center">Fabio Siqueira</h1>
+<h3 align="center" style="color: #007BFF;">Software Developer</h3>
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "Fabio Siqueira"
-        self.location = "São Paulo, Brazil"
-        self.education = "Bachelor's in Information Systems"
-        self.status = "Career transition from IT Support to Software Development"
-        self.focus = "Back-end with Python, exploring Full-Stack technologies"
+    name = "Fabio Siqueira"
+    location = "São Paulo, Brazil"
+    education = "Bachelor's in Information Systems"
+    status = "Career transition from IT Support to Software Development"
+    focus = "Back-end with Python, exploring Full-Stack technologies"
 
 class Skills(Developer):
-    def __init__(self):
-        super().__init__()
-        self.languages = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
-        self.technologies = ["React", "Bootstrap", "Git", "GitHub", "Linux", "Windows Server"]
-        self.tools = ["VS Code", "PowerShell", "Bash"]
-        self.soft_skills = ["Communication", "Organization", "Troubleshooting"]
+    languages = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
+    technologies = ["React", "Bootstrap", "Git", "GitHub", "Linux", "Windows Server"]
+    tools = ["VS Code", "PowerShell", "Bash"]
+    soft_skills = ["Communication", "Organization", "Troubleshooting"]
 ```
 
 <div align="center">
@@ -32,22 +24,27 @@ class Skills(Developer):
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40" height="40"/>
 </div>
 
-<br>
+<hr>
 
 <div align="center">
-  <h3>Contact me at:</h3>
+  <h3>Contact:</h3>
   <a href="mailto:contact@fabios1.com">
   <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
