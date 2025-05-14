@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=4286FF&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Fabio+Siqueira" alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=0&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Fabio+Siqueira" alt="Typing SVG" /></a> <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Software+Developer" alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=0&color=4286FF&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Software+Developer" alt="Typing SVG" /></a> <br>
 
 
 ```python
@@ -19,7 +19,7 @@ class Skills(Developer):
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-s1&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-s1&layout=pie&theme=dark">
 </div>
 
 <br>
