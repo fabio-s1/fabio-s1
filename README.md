@@ -1,7 +1,7 @@
-<div align="center" style="font-family: monospace; font-weight: 600;">
-  <h1 style="color: #00CED1; margin-bottom: 0;">Fabio Siqueira</h1>
-  <h3 style="color: #20B2AA; margin-top: 5px;">Software Developer</h3>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=4286FF&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Fabio+Siqueira" alt="Typing SVG" /></a> <br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Software+Developer" alt="Typing SVG" /></a> <br>
+
 
 ```python
 class Developer:
