@@ -10,7 +10,7 @@ class Developer:
     status = "Transitioning to Software Development"
 
 class Skills(Developer):
-    languages = ["Python", "TypeScript", "HTML", "CSS", "JavaScript"]
+    languages = ["Python", "HTML", "CSS", "JavaScript", "TypeScript"]
     technologies = ["React", "Bootstrap", "Git", "GitHub", "Windows", "Linux"]
     tools = ["Visual Studio Code", "PowerShell", "Bash"]
 ```
