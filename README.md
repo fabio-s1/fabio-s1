@@ -1,5 +1,7 @@
-<h1 align="center">Fabio Siqueira</h1>
-<h3 align="center" style="color: #007BFF;">Software Developer</h3>
+<div align="center" style="font-family: monospace; font-weight: 600;">
+  <h1 style="color: #00CED1; margin-bottom: 0;">Fabio Siqueira</h1>
+  <h3 style="color: #20B2AA; margin-top: 5px;">Software Developer</h3>
+</div>
 
 ```python
 class Developer:
@@ -55,9 +57,3 @@ class Skills(Developer):
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/fabio-s1/count.svg" />
-</p>
